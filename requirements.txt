@@ -1,0 +1,10 @@
+audio_recorder_streamlit
+langdetect
+numpy
+openai-whisper
+sentencepiece
+sacremoses
+streamlit
+torch
+transformers
+ffmpeg
